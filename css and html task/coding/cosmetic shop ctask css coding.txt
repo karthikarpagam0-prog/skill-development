@@ -1,0 +1,35 @@
+header {
+    background-color: #f5bec5;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.product-text {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(20, 21, 21);
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 6px;
+    text-align: center;
+}
+
+.text {
+    position: absolute;
+    left: 20%;
+    bottom: 10%;
+    color: rgb(32, 30, 30);
+    font-size: 20px;
+    font-weight: bold;
+}

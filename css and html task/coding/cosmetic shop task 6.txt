@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blossom Cosmetics - Eyeliner</title>
+    <link rel="stylesheet" href="CSS FPC class6.css">
+</head>
+<body>
+    <hr>
+    <h1 style="text-align:center;">EYELINER</h1>
+
+    <div class="products">
+        <div class="card">
+            <img src="c:/Users/Sangeetha/Downloads/eye liner 3.avif" alt="Eyeliner Product 1" width="200">
+            <a href="CSS FPC class 3.html">
+                <h3>Eyeliner</h3>
+                <p>₹259</p>
+            </a>
+        </div>
+
+        <div class="card">
+            <img src="c:/Users/Sangeetha/Downloads/eyeliner 2.avif" alt="Eyeliner Product 2" width="200">
+            <a href="CSS FPC class 3.html">
+                <h3>Eyeliner</h3>
+                <p>₹285</p>
+            </a>
+        </div>
+
+        <div class="card">
+            <img src="c:/Users/Sangeetha/Downloads/eyeliner 4.webp" alt="Eyeliner Product 3" width="200">
+            <a href="CSS FPC class 3.html">
+                <h3>Eyeliner</h3>
+                <p>₹310</p>
+            </a>
+        </div>
+    </div>
+
+    <hr>
+
+    <footer>
+        <center>
+            <a href="#">Terms of Use</a> |
+            <a href="#">Privacy Policy</a> |
+            <a href="#">Cookie Policy</a> |
+            <a href="#">

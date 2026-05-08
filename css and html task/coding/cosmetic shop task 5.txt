@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blossom Cosmetics - Lipstick</title>
+    <link rel="stylesheet" href="CSS FPC class5.css">
+</head>
+<body>
+    <header>
+        <h1 style="text-align:center;">Blossom Cosmetics</h1>
+        <p style="text-align:center;">
+            Buy at our page: <strong>@blossomLavender.gmail</strong>
+        </p>
+    </header>
+
+    <nav>
+        <center>
+            <a href="#">Face</a> |
+            <a href="#">Eye</a> |
+            <a href="#">Lips</a> |
+            <a href="#">Brushes</a> |
+            <a href="#">Skincare</a> |
+            <a href="#">Bestseller</a> |
+            <a href="#">New Launch</a>
+        </center>
+    </nav>
+
+    <hr>
+
+    <h1 style="text-align:center;">LIPSTICK</h1>
+
+    <div class="products">
+        <div class="card">
+            <img src="c:/Users/Sangeetha/Downloads/lipstick 4.webp" alt="Lipstick Product 1" width="200">
+            <a href="CSS FPC class 3.html">
+                <h3>Lipstick</h3>
+                <p>₹312</p>
+            </a>
+        </div>
+
+        <div class="card">
+            <img src="c:/Users/Sangeetha/Downloads/lip 3.avif" alt="Lipstick Product 2" width="200">
+            <a href="CSS FPC class 3.html">
+                <h3>Lipstick</h3>
+                <p>₹399</p>
+            </a>
+        </div>
+    </div>
+
+    <hr>
+
+    <footer>
+        <center>
+            <a href="#">Terms of Use</a> |
+            <a href="#">Privacy Policy</a> |
+            <a href="#">Cookie Policy</a> |
+            <a href="#">Sitemap</a> |
+            <a href="#">Cookie Preference</a>
+        </center>
+    </footer>
+</body>
+</html>

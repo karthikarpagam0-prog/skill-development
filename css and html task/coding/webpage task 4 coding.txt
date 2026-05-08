@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Success</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0fff0;
+        }
+        .message {
+            text-align: center;
+            margin-top: 150px;
+            font-size: 24px;
+            color: darkgreen;
+        }
+    </style>
+</head>
+<body>
+    <div class="message">
+        <p><b>SUCCESSFULLY REGISTERED... 🎉</b></p>
+    </div>
+</body>
+</html>

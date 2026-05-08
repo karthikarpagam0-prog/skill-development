@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Innovation Solutions</title>
+</head>
+<body>
+    <center>
+        Innovation solution. And we deliver it all through a seamless "as-a-service" model.<br>
+        <u>Explore Services</u>
+        <br><br>
+
+        <ul>
+            <li>Artificial Intelligence</li>
+            <li>Cloud Engineering</li>
+            <li>Advanced Analytics</li>
+            <li>Digital CX</li>
+            <li>Automation</li>
+            <li>Digital Operations</li>
+        </ul>
+
+        <br><br>
+
+        <h1>Insights</h1>
+        <img src="c:/Users/Sangeetha/OneDrive/Pictures/Screenshots/Screenshot (93).png" 
+             alt="Insights Screenshot 1" height="20%" width="30%">
+        <img src="c:/Users/Sangeetha/OneDrive/Pictures/Screenshots/Screenshot (93).png" 
+             alt="Insights Screenshot 2" height="20%" width="30%">
+
+        <br><br>
+        <a href="file:///C:/Users/Sangeetha/2.html">Next</a>
+    </center>
+</body>
+</html>

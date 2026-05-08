@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Big Sale</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="body">
+        <h1>Big Sale Today</h1>
+        <p>Up to 50% OFF!</p>
+    </div>
+
+    <div class="products">
+        <div class="card">
+            <img src="c:/Users/Sangeetha/Downloads/foundation 1.jpg" alt="Foundation" width="200">
+            <a href="CSS FPC class 2.html">
+                <h3>Foundation</h3>
+                <p>Under ₹599</p>
+            </a>
+        </div>
+
+        <div class="card">
+            <img src="c:/Users/Sangeetha/Downloads/concealer 1.jpg" alt="Concealer" width="200">
+            <a href="CSS FPC class 4.html">
+                <h3>Concealer</h3>
+                <p>Under ₹499</p>
+            </a>
+        </div>
+    </div>
+</body>
+</html>

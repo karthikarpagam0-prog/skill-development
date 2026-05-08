@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blossom Cosmetics - Concealer</title>
+    <link rel="stylesheet" href="CSS FPC class4.css">
+</head>
+<body>
+    <header>
+        <h1 style="text-align:center;">Blossom Cosmetics</h1>
+        <p style="text-align:center;">
+            Buy at our page: <strong>@blossomLavender.gmail</strong>
+        </p>
+    </header>
+
+    <nav>
+        <center>
+            <a href="#">Face</a> |
+            <a href="#">Eye</a> |
+            <a href="#">Lips</a> |
+            <a href="#">Brushes</a> |
+            <a href="#">Skincare</a> |
+            <a href="#">Bestseller</a> |
+            <a href="#">New Launch</a>
+        </center>
+    </nav>
+
+    <hr>
+
+    <h1 style="text-align:center;">CONCEALER</h1>
+
+    <div class="products">
+        <div class="card">

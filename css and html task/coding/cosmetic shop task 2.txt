@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foundation Products</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 style="text-align:center;">FOUNDATION</h1>
+
+    <div class="products">
+        <div class="card">
+            <img src="c:/Users/Sangeetha/Downloads/foundation 2.avif" alt="Foundation Product 1" width="200">
+            <a href="CSS FPC class 3.html">
+                <h3>Foundation</h3>
+                <p>Under ₹599</p>
+            </a>
+        </div>
+
+        <div class="card">
+            <img src="c:/Users/Sangeetha/Downloads/foundation 3.webp" alt="Foundation Product 2" width="200">
+            <a href="CSS FPC class 3.html">
+                <h3>Foundation</h3>
+                <p>Under ₹499</p>
+            </a>
+        </div>
+

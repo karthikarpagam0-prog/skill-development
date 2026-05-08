@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Engineering Digital Outcomes</title>
+</head>
+<body>
+    <center>
+        <strong>ENGINEERING DIGITAL OUTCOMES</strong>
+        <p>
+            $500M<br>
+            In annual written <br>
+            premiums delivered for a <br>
+            commercial <u>insurance</u> leader
+            <br><br>
+            70%<br>
+            Efficiency uplift through<br>
+            digital operations for a<br>
+            global <u>technology</u> leader
+        </p>
+        <br><br>
+        <h2><b>Transformation Stories</b></h2>
+        <img src="c:/Users/Sangeetha/OneDrive/Pictures/Screenshots/Screenshot (90).png" 
+             alt="Transformation Story" height="20%" width="60%">
+        <br><br>
+        <a href="1.html">Next</a>
+    </center>
+</body>
+</html>
