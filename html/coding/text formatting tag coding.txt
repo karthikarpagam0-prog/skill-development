@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Research Page</title>
+</head>
+<body>
+
+    <h1>Exploring Artificial Intelligence</h1>
+
+    <p>
+        <b>Artificial Intelligence (AI)</b> is the capability of computational systems to perform 
+        <i>tasks</i> typically associated with <mark>human intelligence</mark>. 
+        <ins>It includes learning, reasoning, and problem-solving.</ins>
+    </p>
+
+    <p>
+        It is a <sup>field</sup> of research in computer science that develops methods for machines 
+        to perceive their <small>environment</small> and maximize their <sub>chances</sub> of success.
+    </p>
+
+    <hr>
+
+    <h3>Core AI Technologies</h3>
+    <ul>
+        <li>Machine Learning (ML)</li>
+        <li>Natural Language Processing (NLP)</li>
+        <li>Neural Networks</li>
+    </ul>
+
+    <p>Learn more at the <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank">AI Wiki</a>.</p>
+
+</body>
+</html>
