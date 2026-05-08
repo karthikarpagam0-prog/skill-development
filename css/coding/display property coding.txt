@@ -1,0 +1,28 @@
+.a {
+    display: flex;
+    gap: 10px; /* adds spacing between flex items */
+}
+
+.b {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+    gap: 10px;
+}
+
+.c {
+    display: inline;
+}
+
+p {
+    background-color: aqua;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    border-radius: 5px;
+}
+
+span {
+    background-color: rgb(177, 94, 108);
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+}

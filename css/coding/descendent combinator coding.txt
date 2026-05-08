@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinator Selector Example</title>
+    <style>
+        /* Descendant selector: targets <p> inside <div> */
+        div p {
+            background-color: rgba(26, 219, 241, 0.91);
+        }
+
+        /* Element selector: targets all <h1> */
+        h1 {
+            background-color: rgba(26, 219, 241, 0.91);
+        }
+    </style>
+</head>
+<body>
+    <p>Combinator Selector</p>
+    <div>
+        <h1>Today Class</h1>
+        <p>Today we are going to see about types of combinator</p>
+        <p>First topic is descendant combinator</p>
+    </div>
+    <p>We need to understand properly</p>
+    <p>And to practice clearly</p>
+</body>
+</html>

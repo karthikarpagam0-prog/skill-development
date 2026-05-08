@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID and Class Selectors</title>
+    <style>
+        #a {
+            color: aqua;
+            font-weight: bold;
+        }
+        .b {
+            color: bisque;
+            font-style: italic;
+        }
+        p {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <p id="a">Hi, how are you?</p>
+    <p class="b">How was your day?</p>
+    <p>Is it nice?</p>
+</body>
+</html>

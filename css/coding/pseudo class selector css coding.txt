@@ -1,0 +1,23 @@
+div {
+    background-color: rgb(212, 38, 160);
+    color: rgb(1, 7, 3);
+    text-align: center;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    border-radius: 6px;
+    transition: 0.3s ease; /* smooth effect */
+}
+
+div:hover {
+    background-color: rgb(40, 120, 155);
+    color: rgb(237, 238, 239);
+    transform: scale(1.05); /* slight zoom on hover */
+}
+
+input:focus {
+    background-color: darkblue;
+    color: rgb(240, 239, 239);
+    border: 2px solid hotpink;
+    outline: none; /* removes default browser outline */
+    padding: 8px;
+}

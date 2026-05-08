@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Alignment Example</title>
+    <link rel="stylesheet" href="text align.css">
+</head>
+<body>
+    <p class="a">
+        Nature is a vast canvas painted with countless shades of green, blue, and gold. 
+        The rustling leaves whisper in the wind.
+    </p>
+    <p class="b">
+        Nature is a vast canvas painted with countless shades of green, blue, and gold. 
+        The rustling leaves whisper in the wind.
+    </p>
+    <p class="c">
+        Nature is a vast canvas painted with countless shades of green, blue, and gold. 
+        The rustling leaves whisper in the wind.
+    </p>
+</body>
+</html>

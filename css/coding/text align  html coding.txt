@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Alignment Demo</title>
+    <link rel="stylesheet" href="text align.css">
+</head>
+<body>
+    <h1>ALL CLEAR</h1>
+    <h2>ALL CLEAR</h2>
+    <h3>ALL CLEAR</h3>
+    <h4>ALL CLEAR</h4>
+    <h5>ALL CLEAR</h5>
+    <h6>ALL CLEAR</h6>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paragraph Styling</title>
+    <style>
+        p {
+            background-color: blue;
+            color: white;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <p>Hi, how are you?</p>
+    <p>How was your day?</p>
+    <p>Is it nice?</p>
+</body>
+</html>

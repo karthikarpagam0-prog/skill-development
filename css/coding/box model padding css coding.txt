@@ -1,0 +1,12 @@
+div {
+    background-color: cadetblue;
+    border: 10px solid black;
+    padding: 70px 50px 40px; /* top, right/left, bottom */
+    margin: 80px auto;       /* centers the div horizontally */
+    width: 300px;            /* fixed width for consistency */
+    text-align: center;      /* centers text inside */
+    color: white;            /* improves text contrast */
+    font-family: Arial, sans-serif;
+    border-radius: 8px;      /* rounded corners */
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3); /* subtle shadow */
+}

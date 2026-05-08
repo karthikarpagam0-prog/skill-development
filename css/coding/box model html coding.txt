@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Time - Movie Info</title>
+    <link rel="stylesheet" href="CSS FPC class.css">
+</head>
+<body>
+    <div>
+        <p>
+            <strong>About Time</strong> is a 2013 romantic science fiction comedy-drama film 
+            written and directed by Richard Curtis, starring Domhnall Gleeson and Rachel McAdams. 
+            The film is about a young man with the ability to time travel who tries to change his past 
+            in hopes of improving his future. It grossed $87.1 million worldwide against a $12 million budget.
+        </p>
+    </div>
+</body>
+</html>
