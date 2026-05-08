@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Day 3 Form Example</title>
+</head>
+<body>
+    <form action="">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="lastname">Last name</label><br>
+            <input type="text" id="lastname" name="lastname"><br><br>
+            <input type="submit" value="Submit">
+        </fieldset>
+    </form>
+
+    <br>
+
+    <label for="university">Choose Universities:</label><br>
+    <select name="university" id="university" size="4" multiple>
+        <option value="periyar">Periyar University</option>
+        <option value="bharathiyar">Bharathiyar University</option>
+        <option value="madras">University of Madras</option>
+        <option value="vels">Vels University</option>
+        <option value="bharathidasan">Bharathidasan University</option>
+    </select>
+
+    <br><br>
+
+    <label for="message">Message:</label><br>
+    <textarea name="message" id="message" rows="4" cols="40">HTML form we will see today</textarea>
+
+    <br><br>
+
+    <button type="button">Done</button>
+
+    <br><br>
+
+    <label for="browser">Choose a browser:</label>
+    <input list="browser" id="browser" name="browser">
+    <datalist id="browser">
+        <option value="Chrome">
+        <option value="Firefox">
+        <option value="Edge">
+        <option value="Safari">
+    </datalist>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College & University Form</title>
+</head>
+<body>
+    <form action="">
+        <fieldset>
+            <legend>Select Your College</legend>
+            <label for="college">College:</label><br>
+            <select name="college" id="college" size="5" multiple>
+                <option value="patrician">Patrician College of Arts and Science</option>
+                <option value="hindusthan">Hindusthan College</option>
+                <option value="srm">SRM College</option>
+                <option value="pachayapas">Pachayapas College</option>
+                <option value="gurunanak">Gurunanak College</option>
+            </select>
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+            <legend>Select Your University</legend>
+            <label for="university">University:</label><br>
+            <select name="university" id="university" size="4" multiple>
+                <option value="madras">University of Madras</option>
+                <option value="periyar">Periyar University</option>
+                <option value="bharathiyar">Bharathiyar University</option>
+                <option value="bharathidasan">Bharathidasan University</option>
+            </select>
+        </fieldset>
+
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Day 1 Image</title>
+</head>
+<body>
+  <img src="https://www.guinnessworldrecords.com/records/hall-of-fame/easset_upload_file31459_12897_e.jpg" 
+       alt="Burj Khalifa" 
+       height="300">
+
+  <hr>
+
+  <a href="https://en.wikipedia.org/wiki/Burj_Khalifa" target="_blank">
+    Burj Khalifa
+  </a>
+
+  <hr>
+</body>
+</html>

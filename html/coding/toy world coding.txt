@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toy World</title>
+</head>
+<body>
+    <h1>TOY WORLD</h1>
+    <hr>
+
+    <p>
+        In our shop<br>
+        We have toys for <b>KIDS and ADULTS</b>.<br>
+        Our shop is open from <mark>9:00 am to 10:00 pm</mark>.<br>
+        Please kindly visit our shop!
+    </p>
+
+    <img src="c:/Users/Sangeetha/Downloads/toys.avif" alt="Toys collection" width="50%" height="50%">
+    <img src="c:/Users/Sangeetha/Downloads/cars.jpg" alt="Toy cars" width="50%" height="50%">
+</body>
+</html>

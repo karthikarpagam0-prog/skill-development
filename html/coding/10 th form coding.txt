@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Student Form</title>
+</head>
+
+<body>
+
+    <form action="">
+        
+        <label for="std">Std</label>
+        <br>
+
+        <input type="text" id="std">
+        <br><br>
+
+        <select name="board" id="board" size="1">
+            <option value="state">State Board</option>
+            <option value="cbse">CBSE</option>
+        </select>
+
+        <br><br>
+
+        <label for="percentage">Percentage</label>
+        <br>
+
+        <input type="text" id="percentage">
+        <br><br>
+
+        <input type="submit">
+
+    </form>
+
+</body>
+</html>

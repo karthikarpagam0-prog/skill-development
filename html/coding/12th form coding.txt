@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Form</title>
+</head>
+<body>
+
+<form action="">
+    
+    <label for="name">Name</label>
+    <br>
+    <input type="text" id="name">
+    <br><br>
+
+    <label for="std">Std</label>
+    <br>
+    <input type="text" id="std">
+    <br><br>
+
+    <select name="board" id="board" size="2" multiple>
+        <option value="state">State Board</option>
+        <option value="cbse">CBSE</option>
+    </select>
+
+    <br><br>
+
+    <label for="percentage">Percentage</label>
+    <br>
+    <input type="text" id="percentage">
+    <br><br>
+
+    <input type="submit">
+
+</form>
+
+</body>
+</html>

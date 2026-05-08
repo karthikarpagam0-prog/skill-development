@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Application Form</title>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    form { max-width: 400px; margin: auto; }
+    label { display: block; margin-top: 10px; }
+    input, select { width: 100%; padding: 8px; margin-top: 5px; }
+    button { margin-top: 15px; padding: 10px; background: darkgreen; color: white; border: none; cursor: pointer; }
+    button:hover { background: seagreen; }
+  </style>
+</head>
+<body>
+  <form action="">
+    <h2>Application Form</h2>
+    <label>Name of the Applicant</label>
+    <input type="text" required>
+
+    <label>Blood Group</label>
+    <input type="text" required>
+
+    <label>Department</label>
+    <input type="text">
+
+    <label>Select Degree</label>
+    <select>
+      <option value="UG">UG</option>
+      <option value="PG">PG</option>
+      <option value="Diploma">Diploma</option>
+    </select>
+
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>

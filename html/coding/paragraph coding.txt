@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japan Overview</title>
+</head>
+<body>
+    <p>
+        Japan, an East Asian archipelago of over 14,000 islands, 
+        is a mountainous nation with a population exceeding 123 million. 
+        It blends ancient traditions with modern innovation, making it 
+        one of the most fascinating countries in the world.
+    </p>
+</body>
+</html>

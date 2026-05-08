@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nested Lists Example</title>
+</head>
+<body>
+    <ul style="list-style-type: square;">
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Juice
+            <ul style="list-style-type: lower-alpha;">
+                <li>Puff</li>
+                <li>Biscuit
+                    <ul style="list-style-type: decimal;">
+                        <li>Veg Roll</li>
+                        <li>Samosa
+                            <ul style="list-style-type: georgian;">
+                                <li>Sandwich</li>
+                                <li>Panipuri
+                                    <ul style="list-style-type: disc;">
+                                        <li>Rosemilk</li>
+                                        <li>Sarbath</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</body>
+</html>

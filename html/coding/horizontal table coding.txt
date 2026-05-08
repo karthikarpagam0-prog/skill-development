@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Styled Table</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid darkgreen;
+      border-radius: 5px;
+      padding: 10px;
+      text-align: center;
+    }
+    tr:hover {
+      background-color: #f0f8f0;
+    }
+    th {
+      background-color: #d0f0d0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Vehicles Table</h1>
+  <table>
+    <tr>
+      <th>Bike</th>
+      <th>Car</th>
+      <th>Bicycle</th>
+    </tr>
+    <tr>
+      <td>KTM</td>
+      <td>Audi</td>
+      <td>Herculis</td>
+    </tr>
+    <tr>
+      <td>Duke</td>
+      <td>BMW</td>
+      <td>Ladybird</td>
+    </tr>
+  </table>
+</body>
+</html>
